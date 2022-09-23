@@ -45,6 +45,8 @@ Com o servidor  -->
 
 ### 📸 Preview do projeto
 
+#### Web
+
 ![Projeto Web](./public/web-image.png)
 
 <br>
@@ -53,8 +55,10 @@ Com o servidor  -->
 
 <br>
 
+#### Mobile
+
 ![Telas do Mobile](./public/mobile-screens.png)
 
-<br>
+<hr>
 
-<div style="align-center">Made with 🤍 by Viny</div>
+<div align="center">Made with 🤍 by Viny</div>
